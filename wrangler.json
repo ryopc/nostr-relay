@@ -1,0 +1,12 @@
+{
+  "name": "nostr-relay",
+  "main": "src/index.js",
+  "compatibility_date": "2025-06-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "nostr-db",
+      "database_id": "017a5d9e-c29c-4ace-8629-c07ac3f6bd86"
+    }
+  ]
+}
